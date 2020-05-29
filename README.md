@@ -11,4 +11,4 @@ J'ai principalement utilisé Unreal engine et ses outils disponible sur le march
 
 ## Installation
 
-Téléchargez au choix le fichier bataille.zip. Décommpressez le zip puis ouvré "bataille.uproject". Attention ce fichier ne peut être lu que par unereal engine 4.25!!! Puis y ajouté les documents "contents" et 
+Téléchargez au choix le fichier bataille.zip. Décommpressez le zip puis ouvré "bataille.uproject". Attention ce fichier ne peut être lu que par unereal engine 4.25!!! Puis y ajouté les documents "content" et "config"
